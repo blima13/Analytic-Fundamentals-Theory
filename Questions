@@ -1,0 +1,85 @@
+Next year, the salesperson wants to use details such as job title, industry, and company size to estimate deal sizes of potential customers.
+In this scenario, what would be the target variable?
+
+R: Deal size
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Which of the following questions can be answered by a classification algorithm?
+
+R: Will this shipment be delayed or not?
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+You want to get a quick summary of the types of customers you will be talking to. What measure should you use to understand the most common industry in the table?
+
+R: The mode
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The human resources manager wants to know the typical number of vacations an employee takes. If they are to summarize the vacations column, they will be…
+
+R: reducing the column down to values they can interpret and act upon
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The data scientist performs a linear regression. They use the number of episodes and the cost per episode as the independent variables, and total 
+viewers as the dependent variable. Their model has a coefficient of determination (R squared) of 0.47.
+
+R: The model explains approximately half of the variance in the total number of viewers
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you add a sleep quality column by the criteria below, what will be the mode of this column?
+
+R: Fair
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The total sales for the order placed at 6:24 on January 1st 2022 is an example of a…
+
+R: variable
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The data science team told you that there is a positive correlation between delay and order quantity. What does this mean?
+
+R: Delay days tend to increase when order quantities increase
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Which is more appropriate to summarize the center of User A’s heart rate during sleep?
+
+R: the standart deviation, because it indicates the distance to the center
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+A colleague asks them whether new employees are more engaged than employees who have been with the company a long time.
+What information can the head of human resources use to answer this question?
+
+R: Employee start data
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+By manipulating which version of the website people saw and recording their responses, the product manager has conducted a/an…
+
+R: experiment
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+A data scientist works for a book wholesaler. They have been asked to develop a machine learning model that can predict the likelihood that a customer on the website will choose express delivery.
+The data scientist chooses to train the model on only 75% of the data. What is their motivation for doing this?
+
+R: The remaining 25% of the data can be used to evaluate the performance of the model
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+While analyzing the data, the head of human resources finds that there is a strong correlation between age and engagement. What does this mean?
+
+R: getting older causes highter engagement
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Based on the information above, was February 2022 a good month for the bookstore financially?
+
+R: No, because sales in dollars are lower than in previous months
